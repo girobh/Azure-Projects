@@ -1,5 +1,5 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="aws"/> <p> 
-# Azure-Projects
+# Microsoft Azure - Projects
 <p>
 🔷 <b> Project 01: </b> MultiCloud Federation — Microsoft Azure and Oracle Cloud Infrastructure using Single Sign-On for Teams Authentication <p>
 🔷 <b> Project 02: </b> Preparation, Docker Image Push and Deployment for Containerized Voting Application in Kubernetes Cluster using Docker, Azure Container Registry (ACR) and Azure Kubernetes Service (AKS) <p>
